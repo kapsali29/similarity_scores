@@ -1,0 +1,4 @@
+I'd like an apple.
+An apple a day keeps the doctor away.
+Never compare an apple to an orange.
+I prefer scikit-learn to orange.
